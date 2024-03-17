@@ -1,59 +1,56 @@
-{
-    "recipes": [
-      {
-        "recipe_id": 1,
-        "recipe_name": "Chicken Stir Fry",
-        "recipe_image": "https://i.ibb.co/GM5DpW2/01.jpg",
-        "short_description": "A quick and delicious chicken stir fry with vegetables.",
-        "ingredients": ["550 g chicken", "120 ml soy sauce", "200 g basil leaf", "400 g mushroom", "1 onion", "2 cloves garlic"],
-        "preparing_time": "30 min",
-        "calories": "320 calories"
-      },
-      {
-        "recipe_id": 2,
-        "recipe_name": "Spaghetti Carbonara",
-        "recipe_image": "https://i.ibb.co/KsXWnr0/02.jpg",
-        "short_description": "Classic Italian pasta dish with creamy sauce and crispy bacon.",
-        "ingredients": ["400 g spaghetti", "200 g bacon", "4 eggs", "100 g parmesan cheese", "Salt", "Pepper", "Parsley"],
-        "preparing_time": "25 min",
-        "calories": "480 calories"
-      },
-      {
-        "recipe_id": 3,
-        "recipe_name": "Vegetable Stir Fry",
-        "recipe_image": "https://i.ibb.co/HT6Vm3v/03.jpg",
-        "short_description": "Healthy and colorful vegetable stir fry with tofu.",
-        "ingredients": ["300 g tofu", "150 g broccoli", "100 g carrot", "150 g bell pepper", "1 zucchini", "Soy sauce", "1 red chili"],
-        "preparing_time": "20 min",
-        "calories": "250 calories"
-      },
-      {
-        "recipe_id": 4,
-        "recipe_name": "Grilled Salmon",
-        "recipe_image": "https://i.ibb.co/xz1t3Mj/04.jpg",
-        "short_description": "Juicy and flavorful grilled salmon fillets seasoned with herbs.",
-        "ingredients": ["4 salmon fillets", "2 tbsp olive oil", "1 lemon", "Salt and pepper", "Garlic powder", "Paprika"],
-        "preparing_time": "15 min",
-        "calories": "300 calories"
-      },
-      {
-        "recipe_id": 5,
-        "recipe_name": "Caprese Salad",
-        "recipe_image": "https://i.ibb.co/7kz9pWL/Screenshot-2024-03-16-132827.png",
-        "short_description": "Refreshing salad with ripe tomatoes, fresh mozzarella, and basil.",
-        "ingredients": ["4 ripe tomatoes", "200 g fresh mozzarella", "1/4 cup fresh basil leaves", "2 tbsp balsamic vinegar", "Salt", "Olive oil"],
-        "preparing_time": "10 min",
-        "calories": "200 calories"
-      },
-      {
-        "recipe_id": 6,
-        "recipe_name": "Banana Smoothie",
-        "recipe_image": "https://i.ibb.co/f8JS9Kx/05.jpg",
-        "short_description": "Creamy and nutritious banana smoothie with yogurt and honey.",
-        "ingredients": ["2 ripe bananas", "200 ml yogurt", "1 tbsp honey", "Ice cubes (optional)", "Milk", "Vanilla extract", "Cinnamon"],
-        "preparing_time": "5 min",
-        "calories": "180 calories"
-      }
-    ]
+[
+  {
+    "recipe_id": 1,
+    "recipe_name": "Chicken Stir Fry",
+    "recipe_image": "https://i.ibb.co/GM5DpW2/01.jpg",
+    "short_description": "A quick and delicious chicken stir fry with vegetables.",
+    "ingredients": ["550 g chicken", "120 ml soy sauce", "200 g basil leaf", "400 g mushroom", "onion and garlic"],
+    "preparing_time": "30 min",
+    "calories": "320 calories"
+  },
+  {
+    "recipe_id": 2,
+    "recipe_name": "Spaghetti Carbonara",
+    "recipe_image": "https://i.ibb.co/KsXWnr0/02.jpg",
+    "short_description": "Classic Italian pasta dish with creamy sauce and crispy bacon.",
+    "ingredients": ["400 g spaghetti", "200 g bacon", "4 eggs", "100 g parmesan cheese", "Salt", "Pepper", "Parsley"],
+    "preparing_time": "25 min",
+    "calories": "480 calories"
+  },
+  {
+    "recipe_id": 3,
+    "recipe_name": "Vegetable Stir Fry",
+    "recipe_image": "https://i.ibb.co/HT6Vm3v/03.jpg",
+    "short_description": "Healthy and colorful vegetable stir fry with tofu.",
+    "ingredients": ["300 g tofu", "150 g broccoli", "100 g carrot", "150 g bell pepper", "1 zucchini", "Soy sauce", "1 red chili"],
+    "preparing_time": "20 min",
+    "calories": "250 calories"
+  },
+  {
+    "recipe_id": 4,
+    "recipe_name": "Grilled Salmon",
+    "recipe_image": "https://i.ibb.co/xz1t3Mj/04.jpg",
+    "short_description": "Juicy and flavorful grilled salmon fillets seasoned with herbs.",
+    "ingredients": ["4 salmon fillets", "2 tbsp olive oil", "1 lemon", "Salt and pepper", "Garlic powder", "Paprika"],
+    "preparing_time": "15 min",
+    "calories": "300 calories"
+  },
+  {
+    "recipe_id": 5,
+    "recipe_name": "Caprese Salad",
+    "recipe_image": "https://i.ibb.co/7kz9pWL/Screenshot-2024-03-16-132827.png",
+    "short_description": "Refreshing salad with ripe tomatoes, fresh mozzarella, and basil.",
+    "ingredients": ["4 ripe tomatoes", "200 g fresh mozzarella", "1/4 cup fresh basil leaves", "2 tbsp balsamic vinegar"],
+    "preparing_time": "10 min",
+    "calories": "200 calories"
+  },
+  {
+    "recipe_id": 6,
+    "recipe_name": "Banana Smoothie",
+    "recipe_image": "https://i.ibb.co/f8JS9Kx/05.jpg",
+    "short_description": "Creamy and nutritious banana smoothie with yogurt and honey.",
+    "ingredients": ["2 ripe bananas", "200 ml yogurt", "1 tbsp honey", "Milk", "Vanilla extract", "Cinnamon"],
+    "preparing_time": "5 min",
+    "calories": "180 calories"
   }
-  
+]
